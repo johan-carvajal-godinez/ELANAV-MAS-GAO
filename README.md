@@ -291,9 +291,8 @@ If you use this implementation in your research, please cite:
 @inproceedings{carvajal2025multiagent,
   title={Multi-Agent Topology Optimization for Space Software Architectures Using Genetic Algorithms},
   author={Carvajal-Godinez, Johan},
-  booktitle={Proceedings of [Conference Name]},
+  booktitle={Proceedings of 7th IEEE International Conference on BioInspired Processing, BIP 2025},
   year={2025},
-  organization={Costa Rica Institute of Technology}
 }
 ```
 
